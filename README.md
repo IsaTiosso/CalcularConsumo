@@ -1,1 +1,1 @@
-#Calcular Consumo
+CalcularConsumo
